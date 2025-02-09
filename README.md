@@ -72,7 +72,7 @@
 
 ### **Ejercicio 4: Figura 2D o 3D Soldada (10 puntos)**
 - **Exposición al docente de su figura:**  
-  [Enlace a la fotografía](#)  
+  [![Carro1-copia.jpg](https://i.postimg.cc/D0WBMdwF/Carro1-copia.jpg)](https://postimg.cc/64Xr7ZZ1)(#)  
   (Reemplaza este texto con el enlace a la fotografía)
 
 ---
