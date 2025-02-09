@@ -25,8 +25,8 @@
 
 ### **Ejercicio 1: Almacenamiento de Datos (15 puntos)**
 - **Diagrama de conexión:**  
-  [Enlace al diagrama](#)  
-  (Reemplaza este texto con el enlace al diagrama)
+  [[Enlace al diagrama](https://wokwi.com/projects/420269838400095233)](#)  
+  
 
 - **Código documentado en GitHub:**  
   [Enlace al código](#)  
