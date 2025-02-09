@@ -11,11 +11,12 @@
 
 ### **Ejercicios de NetAcad Python Fundamentals 2**
 - **Capturas de pantalla de los ejercicios terminados:**  
-  [Enlace a las capturas de pantalla](#)  
-  (Reemplaza este texto con el enlace a las capturas de pantalla)
-
+  [![Python-Fundamentos-Curso-1-copia.png](https://i.postimg.cc/1RNdMsnF/Python-Fundamentos-Curso-1-copia.png)](https://postimg.cc/G9dzm0j3)
+  [![Python-Fundamentos-Curso-2-copia.png](https://i.postimg.cc/hPL5Ws0P/Python-Fundamentos-Curso-2-copia.png)](https://postimg.cc/vcmz5Wjp)
+  [![Python-Fundamentos-Curso-4.png](https://i.postimg.cc/dVnND0Xb/Python-Fundamentos-Curso-4.png)](https://postimg.cc/JsD52RRx)
+  [![Python-Fundamentos-Curso-8-copia.png](https://i.postimg.cc/8c8txfJ6/Python-Fundamentos-Curso-8-copia.png)](https://postimg.cc/hzrLdj0D)
 - **Cuestionario final asignado por el docente:**  
-  [Enlace al cuestionario](#)  
+  [![Whats-App-Image-2025-02-07-at-1-21-31-PM.jpg](https://i.postimg.cc/0ypx47zp/Whats-App-Image-2025-02-07-at-1-21-31-PM.jpg)](https://postimg.cc/mP20zzND)(#)  
   (Reemplaza este texto con el enlace al cuestionario)
 
 ---
@@ -56,47 +57,30 @@
 2. **Instalaciones y Configuraciones Básicas:**  
    [Enlace al video](#)  
    (Reemplaza este texto con el enlace al video)
+   Postgres funcionando en la Rasperry Pi:
+   [![Postgresfuncionando.png](https://i.postimg.cc/cHvbpNFV/Postgresfuncionando.png)](https://postimg.cc/DJK6GRkg)
+   Mosquitto funcionando en la Rasperry Pi:
+   [![Mosquitto-Funcionando.png](https://i.postimg.cc/J7yfgjgG/Mosquitto-Funcionando.png)](https://postimg.cc/RqBpJJvB)
 
-3. **LED y Botón con Raspberry Pi:**  
+4. **LED y Botón con Raspberry Pi:**  
    [Enlace al video](#)  
    (Reemplaza este texto con el enlace al video)
 
-4. **Conexión MQTT en Node-RED:**  
+5. **Conexión MQTT en Node-RED:**  
    [Enlace al video](#)  
    (Reemplaza este texto con el enlace al video)
 
 ### **Ejercicio 3: Circuito Funcional en Placa Fenólica (10 puntos)**
 - **Demostración al docente de su placa:**  
-  [Enlace a la fotografía](#)  
+  [![Placa1.jpg](https://i.postimg.cc/qvrWzS73/Placa1.jpg)](https://postimg.cc/PP6S76YX)
+  [![Placa3.jpg](https://i.postimg.cc/gjTkYdp8/Placa3.jpg)](https://postimg.cc/D41Kg98w)
   (Reemplaza este texto con el enlace a la fotografía)
 
 ### **Ejercicio 4: Figura 2D o 3D Soldada (10 puntos)**
 - **Exposición al docente de su figura:**  
-  [![Carro1-copia.jpg](https://i.postimg.cc/D0WBMdwF/Carro1-copia.jpg)](https://postimg.cc/64Xr7ZZ1)(#)  
-  (Reemplaza este texto con el enlace a la fotografía)
+  [![Carro1-copia.jpg](https://i.postimg.cc/d3qT7Jgf/Carro1-copia.jpg)](https://postimg.cc/YGsSZBrN)
+  [![Carro3.jpg](https://i.postimg.cc/Dw3BxGkk/Carro3.jpg)](https://postimg.cc/mtVYDtg8) 
+  [![Carrro2-copia.jpg](https://i.postimg.cc/G2tQ4JYY/Carrro2-copia.jpg)](https://postimg.cc/jwVN9fMd)
+  Figura de un carro en 3D, AE86 Chocado
 
 ---
-
-## **PARTE SOCIOAFECTIVA (10 PUNTOS)**
-
-### **Evaluación de Saber Ser**
-- **Puntualidad en la entrega de evidencias:**  
-  (El docente evaluará esto directamente)
-
-- **Colaboración activa en clase:**  
-  (El docente evaluará esto directamente)
-
-- **Organización y claridad en el repositorio de GitHub:**  
-  (El docente evaluará esto directamente)
-
----
-
-## **ESPECIFICACIONES DE ENTREGA**
-
-- **Enlace a GitHub:** [EvidenciasIot2025](https://github.com/agustn134/EvidenciasIot2025)  
-- **Presentación en Clase:**  
-  (El docente supervisará la funcionalidad de los circuitos y ejercicios durante las sesiones prácticas)
-
----
-
-**Nota:** Reemplaza los textos con `[Enlace al...]` con los enlaces correspondientes a tus evidencias. Asegúrate de que todos los enlaces funcionen correctamente y que las evidencias estén bien organizadas en tu repositorio.
