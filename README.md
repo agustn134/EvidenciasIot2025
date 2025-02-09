@@ -51,8 +51,8 @@
 
 ### **Ejercicios en Clase: Videos Demostrativos (10 puntos)**
 1. **CRUD en PostgreSQL:**  
-   [Enlace al video](#)  
-   (Reemplaza este texto con el enlace al video)
+   [Enlace al video][![Captura-de-pantalla-2025-02-09-103842.png](https://i.postimg.cc/ZqQZzxhn/Captura-de-pantalla-2025-02-09-103842.png)](https://postimg.cc/Ff0wjczX)
+  
 
 2. **Instalaciones y Configuraciones Básicas:**  
    [Enlace al video]
