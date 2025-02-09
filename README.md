@@ -58,7 +58,7 @@
    [Enlace al video]
    (https://drive.google.com/file/d/1CpqY-M7fkSKh0CURFHcpQeMrIemEAFGX/view?usp=drivesdk)(#)
    
-   (Reemplaza este texto con el enlace al video)
+   
    Postgres funcionando en la Rasperry Pi:
    [![Postgresfuncionando.png](https://i.postimg.cc/cHvbpNFV/Postgresfuncionando.png)](https://postimg.cc/DJK6GRkg)
    Mosquitto funcionando en la Rasperry Pi:
@@ -71,8 +71,11 @@
    
   
 6. **Conexión MQTT en Node-RED:**  
-   [Enlace al video](#)  
-   (Reemplaza este texto con el enlace al video)
+   [Enlace al video](https://drive.google.com/file/d/1QtxK6HSXfVNzr6JBzSfE1VTqg4m1ktsY/view?usp=drivesdk)  
+   [![Mosquitofuncionand3-copia.png](https://i.postimg.cc/2yB7wk0S/Mosquitofuncionand3-copia.png)](https://postimg.cc/dZwCQYMb)
+   [![Captura-de-pantalla-2025-02-08-210219.png](https://i.postimg.cc/GhGr96kF/Captura-de-pantalla-2025-02-08-210219.png)](https://postimg.cc/ZCbXM7sn)
+   [![Captura-de-pantalla-2025-02-08-210219.png](https://i.postimg.cc/GhGr96kF/Captura-de-pantalla-2025-02-08-210219.png)](https://postimg.cc/ZCbXM7sn)
+   [![Captura-de-pantalla-2025-02-08-215224.png](https://i.postimg.cc/MKVD4YSZ/Captura-de-pantalla-2025-02-08-215224.png)](https://postimg.cc/mtZC1CkK)
 
 ### **Ejercicio 3: Circuito Funcional en Placa Fenólica (10 puntos)**
 - **Demostración al docente de su placa:**  
