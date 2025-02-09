@@ -55,7 +55,9 @@
    (Reemplaza este texto con el enlace al video)
 
 2. **Instalaciones y Configuraciones Básicas:**  
-   [Enlace al video](#)  
+   [Enlace al video]
+   (https://drive.google.com/file/d/1CpqY-M7fkSKh0CURFHcpQeMrIemEAFGX/view?usp=drivesdk)(#)
+   
    (Reemplaza este texto con el enlace al video)
    Postgres funcionando en la Rasperry Pi:
    [![Postgresfuncionando.png](https://i.postimg.cc/cHvbpNFV/Postgresfuncionando.png)](https://postimg.cc/DJK6GRkg)
