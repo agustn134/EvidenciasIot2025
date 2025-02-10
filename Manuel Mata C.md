@@ -20,23 +20,22 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 
 ### Parte Teórica  
 - **Ejercicios NetAcad Python Fundamentals 2**  
-  - Capturas de pantalla de los ejercicios terminados: [Ver capturas](/teoria/ejercicios-netacad)  
-  - Cuestionario final: [Ver cuestionario](/teoria/cuestionario-final.pdf)  
+  - Capturas de pantalla de los ejercicios terminados: [Ver capturas]([/teoria/ejercicios-netacad)  ](https://postimg.cc/gallery/g86vdhB)
+  - Cuestionario final: 55% 
 
 ---
 
 ### Parte Práctica  
 #### Ejercicio 1: Almacenamiento de Datos  
-- **Descripción:** Sistema IoT que captura datos de un sensor (DHT11) y los almacena en PostgreSQL mediante Node-RED.  
-- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-almacenamiento.png)  
-- **Código:** [Ver código](/practica/almacenamiento-datos)  
+- **Descripción:** Sistema IoT que captura datos de un sensor (HC-SR04) y los almacena en PostgreSQL mediante Node-RED.  
+[- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-almacenamiento.png)](https://postimg.cc/Tp3G0C0G)  
 - **Video demostrativo:** [Ver video](https://github.com/manuelmatacampos/iot-evaluacion/blob/main/videos/almacenamiento-datos.mp4)  
 
 #### Ejercicio 2: Control de Actuadores  
 - **Descripción:** Sistema IoT que controla un servomotor activado por un pulsador.  
 - **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-control-actuadores.png)  
 - **Código:** [Ver código](/practica/control-actuadores)  
-- **Video demostrativo:** [Ver video](https://github.com/manuelmatacampos/iot-evaluacion/blob/main/videos/control-actuadores.mp4)  
+[- **Video demostrativo:** [Ver video](https://github.com/manuelmatacampos/iot-evaluacion/blob/main/videos/control-actuadores.mp4)  ](https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
 
 ---
 
