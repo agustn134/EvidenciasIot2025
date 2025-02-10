@@ -28,6 +28,6 @@
 - **Diagrama de conexión:**  
   ![Diagrama](./diagramas/diagrama_ejercicio2.png)  
 - **Código documentado:**  
-  - [Código MicroPython](./micropython/control_led.py)  
+  - [Código MicroPython]([./micropython/control_led.py](https://github.com/agustn134/EvidenciasIot2025/blob/main/Codigo%20de%20sensor.py))  
 - **Video demostrativo:**  
-  [Ver video](https://github.com/parejas_iot/evaluacion_iot/blob/main/videos/ejercicio2.mp4)  
+  [Ver video]()  
