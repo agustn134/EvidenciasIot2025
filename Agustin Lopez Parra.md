@@ -30,21 +30,6 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
   (Reemplaza este texto con el enlace al cuestionario)
 ---
 
-### Parte Práctica  
-#### Ejercicio 1: Almacenamiento de Datos  
-- **Descripción:** Sistema IoT que captura datos de un sensor (LDR) y los almacena en PostgreSQL mediante Node-RED.  
-- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-almacenamiento.png)  [[Enlace al diagrama](https://wokwi.com/projects/420269838400095233)]
-- **Código:** [Ver código](/practica/almacenamiento-datos)  
- 
-
-#### Ejercicio 2: Control de Actuadores  
-- **Descripción:** Sistema IoT que controla un LED RGB basado en la lectura de un sensor de luz.  
-- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-control-actuadores.png)  
-- **Código:** [Ver código](/practica/control-actuadores)  
-- **Video demostrativo:** [Ver video](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/control-actuadores.mp4)  
-
----
-
 ### Videos Demostrativos  
 1. **CRUD en PostgreSQL:**  
    [Enlace al video][![Captura-de-pantalla-2025-02-09-103842.png](https://i.postimg.cc/ZqQZzxhn/Captura-de-pantalla-2025-02-09-103842.png)](https://postimg.cc/Ff0wjczX)
