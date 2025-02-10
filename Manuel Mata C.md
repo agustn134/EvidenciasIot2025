@@ -28,14 +28,14 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 ### Parte Práctica  
 #### Ejercicio 1: Almacenamiento de Datos  
 - **Descripción:** Sistema IoT que captura datos de un sensor (HC-SR04) y los almacena en PostgreSQL mediante Node-RED.  
-[- **Diagrama de conexión:** https://wokwi.com/projects/411922111714532353
+[- **Diagrama de conexión:** https://wokwi.com/projects/422546475046573057
 - **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
 
 #### Ejercicio 2: Control de Actuadores  
 - **Descripción:** Sistema IoT que controla un servomotor activado por un pulsador.  
-- **Diagrama de conexión:** https://wokwi.com/projects/411922111714532353
-- **Código:** https://wokwi.com/projects/411922111714532353
-[- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
+- **Diagrama de conexión:** https://wokwi.com/projects/422546475046573057
+- **Código:** https://wokwi.com/projects/422546475046573057
+- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
 
 ---
 
@@ -53,14 +53,11 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 
 ### Soldadura  
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica  
-- **Fotografía:** ![Placa Fenólica](/soldadura/placa-fenolica.jpg)  
+- **Fotografía:**
+  ![Evidencia de Placa](https://github.com/user-attachments/assets/0878b9a9-867d-418d-97c9-7610fe975e93)
+- 
 
 #### Ejercicio 4: Figura 2D o 3D Soldada  
-- **Fotografía:** ![Figura Soldada](/soldadura/figura-soldada.jpg)  
-
+-
+![WhatsApp Image 2025-02-10 at 17 40 34](https://github.com/user-attachments/assets/c355288a-cd30-4ba2-a9a8-9984559557be)
 ---
-
-### Evidencias  
-- Repositorio completo: [GitHub](https://github.com/manuelmatacampos/iot-evaluacion)  
-- Diagramas y códigos organizados por carpetas.  
-
