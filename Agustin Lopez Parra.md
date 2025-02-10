@@ -1,0 +1,64 @@
+# Evaluación Ordinaria - Aplicaciones de IoT  
+**Estudiante:** Agustín López Parra  
+
+## Índice  
+1. [Introducción](#introducción)  
+2. [Parte Teórica](#parte-teórica)  
+3. [Parte Práctica](#parte-práctica)  
+4. [Videos Demostrativos](#videos-demostrativos)  
+5. [Soldadura](#soldadura)  
+6. [Evidencias](#evidencias)  
+
+---
+
+### Introducción  
+Este repositorio contiene las evidencias de la evaluación ordinaria de la asignatura **Aplicaciones de IoT**, correspondiente a la Unidad I: Adquisición y Procesamiento de Datos. Aquí se documentan los ejercicios teóricos, prácticos y socioafectivos realizados durante el curso.
+
+---
+
+### Parte Teórica  
+- **Ejercicios NetAcad Python Fundamentals 2**  
+  - Capturas de pantalla de los ejercicios terminados: [Ver capturas](/teoria/ejercicios-netacad)  
+  - Cuestionario final: [Ver cuestionario](/teoria/cuestionario-final.pdf)  
+
+---
+
+### Parte Práctica  
+#### Ejercicio 1: Almacenamiento de Datos  
+- **Descripción:** Sistema IoT que captura datos de un sensor (LDR) y los almacena en PostgreSQL mediante Node-RED.  
+- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-almacenamiento.png)  
+- **Código:** [Ver código](/practica/almacenamiento-datos)  
+- **Video demostrativo:** [Ver video](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/almacenamiento-datos.mp4)  
+
+#### Ejercicio 2: Control de Actuadores  
+- **Descripción:** Sistema IoT que controla un LED RGB basado en la lectura de un sensor de luz.  
+- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-control-actuadores.png)  
+- **Código:** [Ver código](/practica/control-actuadores)  
+- **Video demostrativo:** [Ver video](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/control-actuadores.mp4)  
+
+---
+
+### Videos Demostrativos  
+1. **CRUD en PostgreSQL:**  
+   - [Video CRUD](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/crud-postgresql.mp4)  
+2. **Instalaciones y Configuraciones Básicas:**  
+   - [Video Instalaciones](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/instalaciones-basicas.mp4)  
+3. **LED y Botón con Raspberry Pi:**  
+   - [Video LED y Botón](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/led-boton.mp4)  
+4. **Conexión MQTT en Node-RED:**  
+   - [Video MQTT](https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/mqtt-nodered.mp4)  
+
+---
+
+### Soldadura  
+#### Ejercicio 3: Circuito Funcional en Placa Fenólica  
+- **Fotografía:** ![Placa Fenólica](/soldadura/placa-fenolica.jpg)  
+
+#### Ejercicio 4: Figura 2D o 3D Soldada  
+- **Fotografía:** ![Figura Soldada](/soldadura/figura-soldada.jpg)  
+
+---
+
+### Evidencias  
+- Repositorio completo: [GitHub](https://github.com/agustinlopezparra/iot-evaluacion)  
+- Diagramas y códigos organizados por carpetas.  
