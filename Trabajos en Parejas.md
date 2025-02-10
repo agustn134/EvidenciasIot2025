@@ -3,7 +3,6 @@
 
 ## Índice  
 1. [Ejercicio 1: Almacenamiento de Datos](#ejercicio-1-almacenamiento-de-datos)  
-2. [Ejercicio 2: Control de Actuadores](#ejercicio-2-control-de-actuadores)  
 
 ---
 
@@ -12,22 +11,15 @@
 
 - **Descripción:** Sistema IoT que captura datos desde un sensor DHT11 y los almacena en PostgreSQL mediante Node-RED.  
 - **Diagrama de conexión:**  
-  ![Diagrama](./diagramas/diagrama_ejercicio1.png)  
-- **Código documentado:**  
-  - [Flujo Node-RED](./node-red/almacenamiento_datos.json)  
-  - [Configuración PostgreSQL](./sql/configuracion.sql)  
+  [![Captura-de-pantalla-2025-02-10-172641.png](https://i.postimg.cc/pLLQMm7S/Captura-de-pantalla-2025-02-10-172641.png)](https://postimg.cc/Mvgfypz0)
+- **Evidencia:**
+  [![Whats-App-Image-2025-02-10-at-5-38-40-PM.jpg](https://i.postimg.cc/DZT8FD0z/Whats-App-Image-2025-02-10-at-5-38-40-PM.jpg)](https://postimg.cc/zLxJFxnm)
+  - [![Whats-App-Image-2025-02-10-at-5-41-27-PM.jpg](https://i.postimg.cc/yNF8fPjC/Whats-App-Image-2025-02-10-at-5-41-27-PM.jpg)](https://postimg.cc/gw2pj31g)
+  -[![Whats-App-Image-2025-02-10-at-5-40-58-PM.jpg](https://i.postimg.cc/0j5jKwpR/Whats-App-Image-2025-02-10-at-5-40-58-PM.jpg)](https://postimg.cc/cgj0V69X)
 - **Video demostrativo:**  
-  [Ver video](https://github.com/parejas_iot/evaluacion_iot/blob/main/videos/ejercicio1.mp4)  
-
----
-
-## Ejercicio 2: Control de Actuadores  
-**Puntos obtenidos:** 15 puntos (máximo).  
-
-- **Descripción:** Control de un LED RGB basado en la lectura de un sensor LDR.  
-- **Diagrama de conexión:**  
-[![Captura-de-pantalla-2025-02-10-172641.png](https://i.postimg.cc/pLLQMm7S/Captura-de-pantalla-2025-02-10-172641.png)](https://postimg.cc/Mvgfypz0)
+  [Ver video 1 ](https://drive.google.com/file/d/19Y5-8A2WfDDf9O3_Nxxf7pf0sjY6NS6s/view?usp=drivesdk)
+  [Ver video 2](https://drive.google.com/file/d/1EpkI6uTKh2a-z7G4MFKe-Lfh_ZFf7yHD/view?usp=drivesdk)  
 - **Código documentado:**  
   - [Código MicroPython]([./micropython/control_led.py](https://github.com/agustn134/EvidenciasIot2025/blob/main/Codigo%20de%20sensor.py))  
-- **Video demostrativo:**  
-  [Ver video]()  
+
+---
