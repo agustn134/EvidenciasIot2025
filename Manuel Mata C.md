@@ -9,7 +9,6 @@
 3. [Parte Práctica](#parte-práctica)  
 4. [Videos Demostrativos](#videos-demostrativos)  
 5. [Soldadura](#soldadura)  
-6. [Evidencias](#evidencias)  
 
 ---
 
