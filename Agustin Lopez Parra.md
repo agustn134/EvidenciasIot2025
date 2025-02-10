@@ -27,7 +27,7 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
   [![Python-Fundamentos-Curso-8-copia.png](https://i.postimg.cc/8c8txfJ6/Python-Fundamentos-Curso-8-copia.png)](https://postimg.cc/hzrLdj0D)
   - **Cuestionario final asignado por el docente:**  
   [![Whats-App-Image-2025-02-07-at-1-21-31-PM.jpg](https://i.postimg.cc/0ypx47zp/Whats-App-Image-2025-02-07-at-1-21-31-PM.jpg)](https://postimg.cc/mP20zzND)(#)  
-  (Reemplaza este texto con el enlace al cuestionario)
+  
 ---
 
 ### Videos Demostrativos  
@@ -43,11 +43,13 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
    [![Whats-App-Image-2025-02-08-at-7-58-57-PM.jpg](https://i.postimg.cc/5jc9YV7z/Whats-App-Image-2025-02-08-at-7-58-57-PM.jpg)](https://postimg.cc/rRJ23vLy)
    
 3. **LED y Botón con Raspberry Pi:**  
-   -  Video mostrando el led y el boton en la Rasperry Pi
-   [[Enlace al video](https://drive.google.com/file/d/1iJh4bcKieHQpGTx5vdZVzVrxPZkiXpAL/view?usp=drive_link)](#) 
+   -  Video mostrando el led y el boton en la Rasperry Pi:
+   -   [[Enlace al video](https://drive.google.com/file/d/1iJh4bcKieHQpGTx5vdZVzVrxPZkiXpAL/view?usp=drive_link)]
+
 4. **Conexión MQTT en Node-RED:**  
    - [Enlace al video](https://drive.google.com/file/d/1QtxK6HSXfVNzr6JBzSfE1VTqg4m1ktsY/view?usp=drivesdk)  
-   [![Mosquitofuncionand3-copia.png](https://i.postimg.cc/2yB7wk0S/Mosquitofuncionand3-copia.png)](https://postimg.cc/dZwCQYMb)
+
+    [![Mosquitofuncionand3-copia.png](https://i.postimg.cc/2yB7wk0S/Mosquitofuncionand3-copia.png)](https://postimg.cc/dZwCQYMb)
    [![Captura-de-pantalla-2025-02-08-210219.png](https://i.postimg.cc/GhGr96kF/Captura-de-pantalla-2025-02-08-210219.png)](https://postimg.cc/ZCbXM7sn)
    [![Captura-de-pantalla-2025-02-08-210219.png](https://i.postimg.cc/GhGr96kF/Captura-de-pantalla-2025-02-08-210219.png)](https://postimg.cc/ZCbXM7sn)
    [![Captura-de-pantalla-2025-02-08-215224.png](https://i.postimg.cc/MKVD4YSZ/Captura-de-pantalla-2025-02-08-215224.png)](https://postimg.cc/mtZC1CkK)
