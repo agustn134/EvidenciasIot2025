@@ -1,5 +1,7 @@
 # Evaluación Ordinaria - Aplicaciones de IoT  
-**Estudiante:** Agustín López Parra  
+**Nombre del Alumno:** Agustin Lopez Parra  
+**Salón:** GDS0652  
+**ID:** 1222100504  
 
 ## Índice  
 1. [Introducción](#introducción)  
