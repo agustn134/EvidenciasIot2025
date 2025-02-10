@@ -28,13 +28,13 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 ### Parte Práctica  
 #### Ejercicio 1: Almacenamiento de Datos  
 - **Descripción:** Sistema IoT que captura datos de un sensor (HC-SR04) y los almacena en PostgreSQL mediante Node-RED.  
-[- **Diagrama de conexión:** (https://postimg.cc/Tp3G0C0G)  
+[- **Diagrama de conexión:** https://wokwi.com/projects/411922111714532353
 - **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
 
 #### Ejercicio 2: Control de Actuadores  
 - **Descripción:** Sistema IoT que controla un servomotor activado por un pulsador.  
-- **Diagrama de conexión:** ![Diagrama](/diagramas/diagrama-control-actuadores.png)  
-- **Código:** [Ver código](/practica/control-actuadores)  
+- **Diagrama de conexión:** https://wokwi.com/projects/411922111714532353
+- **Código:** https://wokwi.com/projects/411922111714532353
 [- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
 
 ---
