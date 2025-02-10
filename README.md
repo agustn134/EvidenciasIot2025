@@ -24,7 +24,7 @@ Las evidencias individuales de **Agustín López Parra** están disponibles en e
 
 Las evidencias individuales de **Manuel Mata Campos** están disponibles en el siguiente enlace:
 
-- [Ver evidencias de Manuel Mata Campos]([https://github.com/agustn134/EvidenciasIot2025/blob/main/Manuel%20Mata%20Campos.md](https://github.com/agustn134/EvidenciasIot2025/blob/main/Manuel%20Mata%20Campos))
+- [Ver evidencias de Manuel Mata Campos](https://github.com/agustn134/EvidenciasIot2025/blob/main/Manuel%20Mata%20C.md)
 
 ---
 
