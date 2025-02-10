@@ -26,7 +26,7 @@
 
 - **Descripción:** Control de un LED RGB basado en la lectura de un sensor LDR.  
 - **Diagrama de conexión:**  
-  ![Diagrama](./diagramas/diagrama_ejercicio2.png)  
+  ![Diagrama]([![Captura-de-pantalla-2025-02-10-172641.png](https://i.postimg.cc/pLLQMm7S/Captura-de-pantalla-2025-02-10-172641.png)](https://postimg.cc/Mvgfypz0))  
 - **Código documentado:**  
   - [Código MicroPython]([./micropython/control_led.py](https://github.com/agustn134/EvidenciasIot2025/blob/main/Codigo%20de%20sensor.py))  
 - **Video demostrativo:**  
