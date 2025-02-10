@@ -34,8 +34,8 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 1. **CRUD en PostgreSQL:**  
    [Enlace al video][![Captura-de-pantalla-2025-02-09-103842.png](https://i.postimg.cc/ZqQZzxhn/Captura-de-pantalla-2025-02-09-103842.png)](https://postimg.cc/Ff0wjczX)
 2. **Instalaciones y Configuraciones Básicas:**  
-   - [Video Mostrando las Instalaciones]([[https://github.com/agustinlopezparra/iot-evaluacion/blob/main/videos/instalaciones-basicas.mp4](https://drive.google.com/file/d/1CpqY-M7fkSKh0CURFHcpQeMrIemEAFGX/view?usp=drivesdk)])
-   - 
+   - [Video Mostrando las Instalaciones](https://drive.google.com/file/d/1CpqY-M7fkSKh0CURFHcpQeMrIemEAFGX/view?usp=drivesdk)
+   
    - Postgres funcionando en la Rasperry Pi:
    [![Postgresfuncionando.png](https://i.postimg.cc/cHvbpNFV/Postgresfuncionando.png)](https://postimg.cc/DJK6GRkg)
    - Mosquitto funcionando en la Rasperry Pi:
@@ -45,7 +45,7 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
    
 3. **LED y Botón con Raspberry Pi:**  
    -  Video mostrando el led y el boton en la Rasperry Pi:
-   -   [[Enlace al video](https://drive.google.com/file/d/1iJh4bcKieHQpGTx5vdZVzVrxPZkiXpAL/view?usp=drive_link)]
+      [[Enlace al video](https://drive.google.com/file/d/1iJh4bcKieHQpGTx5vdZVzVrxPZkiXpAL/view?usp=drive_link)]
 
 4. **Conexión MQTT en Node-RED:**  
    - [Enlace al video](https://drive.google.com/file/d/1QtxK6HSXfVNzr6JBzSfE1VTqg4m1ktsY/view?usp=drivesdk)  
