@@ -28,13 +28,13 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 #### Ejercicio 1: Almacenamiento de Datos  
 - **Descripción:** Sistema IoT que captura datos de un sensor (HC-SR04) y los almacena en PostgreSQL mediante Node-RED.  
 [- **Diagrama de conexión:** https://wokwi.com/projects/422546475046573057
-- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
+- **Video demostrativo:** https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=sharing
 
 #### Ejercicio 2: Control de Actuadores  
 - **Descripción:** Sistema IoT que controla un servomotor activado por un pulsador.  
 - **Diagrama de conexión:** https://wokwi.com/projects/422546475046573057
 - **Código:** https://wokwi.com/projects/422546475046573057
-- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=drive_link) 
+- **Video demostrativo:** (https://drive.google.com/file/d/14xquYhWiUHA4jQ5ganLOu-sEhSYIVq7d/view?usp=sharing) 
 
 ---
 
@@ -42,11 +42,11 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 1. **CRUD en PostgreSQL:**  
    Link de flujo: https://drive.google.com/file/d/1pe_bSO_glxMASQNncxehx8URyBSV_RII/view?usp=drive_link
 3. **Instalaciones y Configuraciones Básicas:**  
-   *Video Demostrativo: * (https://drive.google.com/file/d/1BuqqNgSFparK-9cnts5Yf3s0wHIUSXLT/view?usp=drive_link)
+   *Video Demostrativo: * https://drive.google.com/file/d/1BuqqNgSFparK-9cnts5Yf3s0wHIUSXLT/view?usp=sharing
 4. **LED y Botón con Raspberry Pi:**  
-   *Video demostrativo: *(https://drive.google.com/file/d/12KcqT-nEdGJXapdaAcHVSp1RF3MW1p78/view?usp=drive_link)
+   *Video demostrativo: * https://drive.google.com/file/d/12KcqT-nEdGJXapdaAcHVSp1RF3MW1p78/view?usp=sharing
 5. **Conexión MQTT en Node-RED:**  
-   *Video Demostrativo: * (https://drive.google.com/file/d/1ToFNruMLODsqUNozgb2eSasZqy5nsAp5/view?usp=drive_link)   
+   *Video Demostrativo: * https://drive.google.com/file/d/1ToFNruMLODsqUNozgb2eSasZqy5nsAp5/view?usp=sharing  
 
 ---
 
