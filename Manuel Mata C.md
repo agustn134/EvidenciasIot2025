@@ -61,5 +61,8 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 ![WhatsApp Image 2025-02-10 at 17 40 34](https://github.com/user-attachments/assets/c355288a-cd30-4ba2-a9a8-9984559557be)
 ---
 
-### CODIGO EN MICROPYTHON
-CODIGO DE SENSOR DE PROXIMIDAD, CONECTADO A UN TOPICO MEDIANTE ESP32
+### IMAGEN DE DIAGRAMA
+DIAGRAMA DE CONEXIÓN
+![circuit_image](https://github.com/user-attachments/assets/c811973a-8a89-42c7-a7e5-db45124e80b0)
+
+
