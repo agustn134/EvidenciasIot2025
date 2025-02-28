@@ -60,3 +60,6 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 -
 ![WhatsApp Image 2025-02-10 at 17 40 34](https://github.com/user-attachments/assets/c355288a-cd30-4ba2-a9a8-9984559557be)
 ---
+
+### CODIGO EN MICROPYTHON
+
