@@ -63,6 +63,7 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 
 ### IMAGEN DE DIAGRAMA
 DIAGRAMA DE CONEXIÓN
+LINK DE DIAGRAMA : https://app.cirkitdesigner.com/project/32005cd3-21e2-494e-965c-2745f5813533 
 ![circuit_image](https://github.com/user-attachments/assets/c811973a-8a89-42c7-a7e5-db45124e80b0)
 
 
