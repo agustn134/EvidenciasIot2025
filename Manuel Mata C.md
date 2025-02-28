@@ -62,4 +62,4 @@ Este repositorio contiene las evidencias de la evaluación ordinaria de la asign
 ---
 
 ### CODIGO EN MICROPYTHON
-
+CODIGO DE SENSOR DE PROXIMIDAD, CONECTADO A UN TOPICO MEDIANTE ESP32
