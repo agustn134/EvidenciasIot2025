@@ -269,6 +269,9 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 - **Fotos del circuito:** [![Captura-de-pantalla-2025-03-16-213440.png](https://i.postimg.cc/NMbG3xfr/Captura-de-pantalla-2025-03-16-213440.png)](https://postimg.cc/YGGwgYFp)
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1YeoIh8MSxiGFC3OeZjsYYYGaA6v0Zbkk/view?usp=sharing)
 - **Foto demostrativa:** [![Captura-de-pantalla-2025-03-16-215335.png](https://i.postimg.cc/vmcztVKJ/Captura-de-pantalla-2025-03-16-215335.png)](https://postimg.cc/yJCcVksj)
+- **Circuito:** [[Circuito]()](https://wokwi.com/projects/425183825106935809)
+- 
+
 ---
 
 ### 3. Quizziz (1.5 puntos)
@@ -276,8 +279,6 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 #### Objetivo:
 Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
 
-#### Criterios:
-- **Puntaje obtenido:** 1 puntos
 
 #### Evidencia:
 - **Captura de pantalla del resultado:** [![image.png](https://i.postimg.cc/G26SyQhg/image.png)](https://postimg.cc/Q9kbLc7c)
@@ -289,11 +290,10 @@ Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
 #### Objetivo:
 Evaluar el conocimiento en JavaScript a través del módulo JavaScript Fundamentals 2 de NetAcad.
 
-#### Criterios:
-- **Puntaje obtenido:** 1.5 puntos (proporcional al resultado)
 
 #### Evidencia:
-- **Captura de pantalla del resultado:** [Ver captura](https://drive.google.com/)
+- **Captura de pantalla del resultado:** [![Captura-de-pantalla-2025-03-17-110346.png](https://i.postimg.cc/T3xxTyLF/Captura-de-pantalla-2025-03-17-110346.png)](https://postimg.cc/nC3gkh1G))
+- [![Captura-de-pantalla.png](https://i.postimg.cc/fLcjng66/Captura-de-pantalla-2025-03-17-110550.png)](https://postimg.cc/Q9MWcSNb)
 
 ---
 
