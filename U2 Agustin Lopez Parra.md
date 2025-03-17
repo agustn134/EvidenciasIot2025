@@ -29,7 +29,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Descripción:** Sensor para medir temperatura.
    - **Material para Prueba:** Hielo, aire caliente, mano.
    - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
-   - **Código fuente en GitHub:** [Código KY-001](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Código fuente en GitHub:** [Código KY-001](https://github.com/agustn134/EvidenciasIot2025/blob/d432283afbe7b4cf1269e61d92921029917b9bfd/U2%20CODIGOS%20PYTHON/KY001_Temperatura.py) 
    - **Video demostrativo:** [Ver video](https://drive.google.com/)
 
 ### 2. KY-002 - Sensor de Vibración
@@ -110,8 +110,8 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 
 #### Evidencias:
 - **Fotos del circuito:** [![Captura-de-pantalla-2025-03-16-213440.png](https://i.postimg.cc/NMbG3xfr/Captura-de-pantalla-2025-03-16-213440.png)](https://postimg.cc/YGGwgYFp)
-- **Video demostrativo:** [Ver video]([https://drive.google.com/](https://drive.google.com/file/d/1YeoIh8MSxiGFC3OeZjsYYYGaA6v0Zbkk/view?usp=sharing))
-
+- **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1YeoIh8MSxiGFC3OeZjsYYYGaA6v0Zbkk/view?usp=sharing)
+- **Foto demostrativa:** [![Captura-de-pantalla-2025-03-16-215335.png](https://i.postimg.cc/vmcztVKJ/Captura-de-pantalla-2025-03-16-215335.png)](https://postimg.cc/yJCcVksj)
 ---
 
 ### 3. Quizziz (1.5 puntos)
