@@ -112,6 +112,8 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 - **Fotos del circuito:** [Ver fotos](https://drive.google.com/)
 - **Video demostrativo:** [Ver video](https://drive.google.com/)
 [![Captura-de-pantalla-2025-03-16-222359.png](https://i.postimg.cc/rwznQ30Z/Captura-de-pantalla-2025-03-16-222359.png)](https://postimg.cc/758nLBNS)
+- **Circuito:** [[Circuito]()](https://wokwi.com/projects/425693140919907329)
+- 
 ---
 
 ### 3. Quizziz (1.5 puntos)
