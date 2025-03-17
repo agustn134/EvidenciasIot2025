@@ -1,1 +1,151 @@
+# Evidencias IoT 2025 - Agustin Lopez Parra
+
+## Unidad 2: Instrumento de Evaluación
+
+### 1. Videos (5 puntos)
+
+#### Objetivo:
+Crear y entregar videos que documenten el proceso y los resultados del trabajo.
+
+#### Criterios:
+- **Videos de Sensores/Actuadores (40 conexiones, 20 por integrante):**
+  - Mostrar la conexión de sensores/actuadores.
+  - Mostrar el flujo de Node-RED.
+  - Mostrar la base de datos PostgreSQL.
+  - Explicar el funcionamiento y código documentado.
+
+- **Video de Soldadura:**
+  - Mostrar el circuito de soldadura.
+  - Mostrar el funcionamiento (encendido/apagado de LEDs).
+  - Mostrar la figura creativa.
+
+#### Desglose de Puntos:
+- Diagrama de conexión: 1 punto
+- Código fuente en GitHub: 1 punto
+- Videos demostrativos: 2 puntos
+- Base de Datos: 1 punto
+
+#### Enlaces:
+- [Video Sensores/Actuadores](https://drive.google.com/)
+- [Video Soldadura](https://drive.google.com/)
+
+---
+
+### 2. Ejercicio de Soldadura (1 punto)
+
+#### Objetivo:
+Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y encienda/apague cada LED.
+
+#### Criterios:
+- **Conexión correcta:** 0.6 puntos
+- **Funcionamiento:** 0.2 puntos
+- **Figura creativa:** 0.1 puntos
+- **Soldadura limpia y sin cortocircuitos:** 0.1 puntos
+
+#### Evidencia:
+- [Fotos del circuito](https://drive.google.com/)
+- [Video demostrativo](https://drive.google.com/)
+
+---
+
+### 3. Quizziz (1.5 puntos)
+
+#### Objetivo:
+Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
+
+#### Criterios:
+- **Puntaje obtenido:** 1.5 puntos (proporcional al resultado)
+
+#### Evidencia:
+- [Captura de pantalla del resultado](https://drive.google.com/)
+
+---
+
+### 4. NetAcad (1.5 puntos)
+
+#### Objetivo:
+Evaluar el conocimiento en JavaScript a través del módulo JavaScript Fundamentals 2 de NetAcad.
+
+#### Criterios:
+- **Puntaje obtenido:** 1.5 puntos (proporcional al resultado)
+
+#### Evidencia:
+- [Captura de pantalla del resultado](https://drive.google.com/)
+
+---
+
+### 5. Organización en GitHub (0.5 puntos)
+
+#### Objetivo:
+Evaluar la organización y documentación del proyecto en GitHub.
+
+#### Criterios:
+- **Repositorio organizado:** 0.5 puntos
+
+#### Estructura del Repositorio:
+
+#### Enlace al Repositorio:
+- [Repositorio en GitHub](https://github.com/agustn134/EvidenciasIot2025)
+
+---
+
+### 6. Asistencia (0.5 puntos)
+
+#### Objetivo:
+Evaluar la asistencia y participación en las sesiones de clase.
+
+#### Criterios:
+- **Asistencia completa:** 0.5 puntos
+
+#### Evidencia:
+- [Registro de asistencia](https://drive.google.com/)
+
+---
+
+## Resumen de Puntajes
+
+| Categoría               | Puntos Máximos |
+|-------------------------|----------------|
+| Sensores/Actuadores      | 5              |
+| Ejercicio de Soldadura   | 1              |
+| Quizziz                 | 1.5            |
+| NetAcad                 | 1.5            |
+| Organización en GitHub  | 0.5            |
+| Asistencia              | 0.5            |
+| **Total**               | **10**         |
+
+---
+
+## Notas Adicionales
+
+- **Originalidad:** Los videos, diagramas y diseños deben ser únicos. Cualquier evidencia de plagio resultará en una penalización del 50% del puntaje correspondiente.
+- **Entrega:** Todas las evidencias (código, diagramas, enlace al video) deben estar disponibles en GitHub y los videos en Google Drive con acceso público antes de la fecha límite.
+
+---
+
+## Instrucciones para los Estudiantes
+
+1. **Videos:**
+   - Videos de Sensores/Actuadores: Debe mostrar la conexión de los sensores/actuadores, el flujo de Node-RED, la base de datos PostgreSQL. Además, debe explicar el funcionamiento y código documentado.
+   - Video de Soldadura: Debe mostrar el circuito de soldadura, su funcionamiento (encendido/apagado de LEDs) y la figura creativa.
+
+2. **Ejercicio de Soldadura:**
+   - Conectar 10 LEDs y 10 resistencias para formar una figura creativa.
+   - Asegurarse de que cada LED encienda y apague de manera individual.
+   - La soldadura debe ser limpia y sin cortocircuitos.
+
+3. **Quizziz y NetAcad:**
+   - Completar el Quizziz y el módulo JavaScript Fundamentals 2 de NetAcad.
+   - Los puntajes se calificarán proporcionalmente.
+
+4. **Organización en GitHub:**
+   - Crear un repositorio en GitHub con el código fuente, diagramas y documentación.
+   - El repositorio debe estar bien organizado.
+
+5. **Asistencia:**
+   - Asistir a todas las sesiones de clase.
+
+---
+
+**Fecha de Entrega:** [Inserte la fecha límite aquí]
 
