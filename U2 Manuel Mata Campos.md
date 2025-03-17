@@ -1,4 +1,4 @@
-# Evidencias IoT 2025 - Agustin Lopez Parra
+# Evidencias IoT 2025 - Manuel Mata Campos
 
 ## Unidad 2: Instrumento de Evaluación
 
@@ -21,13 +21,79 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
   - Mostrar el funcionamiento (encendido/apagado de LEDs).
   - Mostrar la figura creativa.
 
-#### Evidencias:
-- **Diagrama de conexión:** [Ver diagrama](https://drive.google.com/)
-- **Código fuente en GitHub:** [Repositorio GitHub](https://github.com/agustn134/EvidenciasIot2025)
-- **Videos demostrativos:**
-  - [Video Sensores/Actuadores](https://drive.google.com/)
-  - [Video Soldadura](https://drive.google.com/)
-- **Base de Datos:** [Script SQL](https://github.com/agustn134/EvidenciasIot2025/blob/main/Agustin%20Lopez%20Parra%20UNIDAD%202/Codigo/base_datos.sql)
+---
+
+## Lista de Sensores y Materiales para Pruebas
+
+### 1. KY-001 - Sensor de Temperatura
+   - **Descripción:** Sensor para medir temperatura.
+   - **Material para Prueba:** Hielo, aire caliente, mano.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-001](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 2. KY-002 - Sensor de Vibración
+   - **Descripción:** Sensor para detectar vibraciones.
+   - **Material para Prueba:** Golpes suaves, vibrador de celular.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-002](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 3. KY-003 - Sensor de Efecto Hall
+   - **Descripción:** Sensor para detectar campos magnéticos.
+   - **Material para Prueba:** Imán.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-003](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 4. KY-004 - Módulo Push Botón
+   - **Descripción:** Botón para activar/desactivar circuitos.
+   - **Material para Prueba:** Presionar con el dedo.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-004](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 5. KY-005 - Sensor Infrarrojo
+   - **Descripción:** Sensor para detectar luz infrarroja.
+   - **Material para Prueba:** Control remoto, luz infrarroja.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-005](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 6. KY-006 - Módulo Buzzer Pasivo
+   - **Descripción:** Buzzer para generar tonos.
+   - **Material para Prueba:** Código en Arduino para generar tonos.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-006](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 7. KY-008 - Módulo LED Láser
+   - **Descripción:** LED láser para proyectos de luz.
+   - **Material para Prueba:** Papel reflectante, sensor de luz.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-008](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 8. KY-010 - Módulo Foto Interruptor
+   - **Descripción:** Interruptor activado por luz.
+   - **Material para Prueba:** Objeto interrumpiendo el haz de luz.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-010](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 9. KY-011 - Módulo LED 2 Colores 5mm
+   - **Descripción:** LED de dos colores.
+   - **Material para Prueba:** Resistencia y código para cambiar color.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-011](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
+
+### 10. KY-012 - Módulo Buzzer Activo
+   - **Descripción:** Buzzer activo para generar tonos.
+   - **Material para Prueba:** Prueba con código de tonos.
+   - **Diagrama de conexión:** [Ver diagrama](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20DIAGRAMAS)
+   - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/tree/main/U2%20CODIGOS%20PYTHON)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/)
 
 ---
 
@@ -71,4 +137,6 @@ Evaluar el conocimiento en JavaScript a través del módulo JavaScript Fundament
 
 #### Evidencia:
 - **Captura de pantalla del resultado:** [Ver captura](https://drive.google.com/)
+
+---
 
