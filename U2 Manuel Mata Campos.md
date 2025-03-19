@@ -238,17 +238,17 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/d4805b13e48ae1a4572379821602cb570ec08926/U2%20CODIGOS%20PYTHON/KY-038%20sensor%20de%20sonido%20con%20micr%C3%B3fono.py)
    - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/10zbzbI3UeWO0lxqDil4hSSS0ZSw-cgW8/view?usp=sharing)
 
-### 37. KY-039 - Sensor de Pulso
-   - **Material para Prueba:** Colocar el dedo sobre el sensor
+### 37. KY-039 - Módulo Encoder
+   - **Material para Prueba:** Girar el encoder manualmente 
    - **Diagrama de conexión:** [Ver diagrama]()
-   - **Código fuente en GitHub:** [Código KY-039](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY039%20Sensor%20de%20Pulso.py)
+   - **Código fuente en GitHub:** [Código KY-040](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY039%20Sensor%20de%20Pulso.py)
    - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-QsY9pP-W9591Fdi3YxPc7PQzsC1BPTh/view?usp=sharing)
 
-### 38. KY-040 - Módulo Encoder
-   - **Material para Prueba:** Girar el encoder manualmente
+### 38. KY-040 - Sensor de Pulso 
+   - **Material para Prueba:** Colocar el dedo sobre el sensor
    - **Diagrama de conexión:** [Ver diagrama]()
-   - **Código fuente en GitHub:** [Código KY-040](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY040%20Modulo%20Encoder.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Código fuente en GitHub:** [Código](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY040%20Modulo%20Encoder.py)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-QsY9pP-W9591Fdi3YxPc7PQzsC1BPTh/view?usp=sharing)
 
 
 
