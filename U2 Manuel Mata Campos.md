@@ -292,20 +292,13 @@ Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
 
 #### Objetivo:
 Evaluar el conocimiento en JavaScript a través del módulo JavaScript Fundamentals 2 de NetAcad.
-
-[url=https://postimages.org/][img]https://i.postimg.cc/5ySjjPGh/Captura-de-pantalla-2025-03-18-205402.png[/img][/url]
-
-[url=https://postimages.org/][img]https://i.postimg.cc/WzvhNR9m/Captura-de-pantalla-2025-03-18-205434.png[/img][/url]
-
-
-
-
-
-
-
-
 #### Evidencia:
 - **Captura de pantalla del resultado:** [Ver captura](https://drive.google.com/)
-
+[![Captura-de-pantalla-2025-03-18-205402.png](https://i.postimg.cc/5ySjjPGh/Captura-de-pantalla-2025-03-18-205402.png)](https://postimg.cc/rRzqP9qj)
+[![Captura-de-pantalla-2025-03-18-205434.png](https://i.postimg.cc/WzvhNR9m/Captura-de-pantalla-2025-03-18-205434.png)](https://postimg.cc/vg0QhKwD)
+[![Captura-de-pantalla-2025-03-18-205712.png](https://i.postimg.cc/wM2T91RH/Captura-de-pantalla-2025-03-18-205712.png)](https://postimg.cc/gLwPDkKB)
+[![Captura-de-pantalla-2025-03-18-205745.png](https://i.postimg.cc/VkdLcLfQ/Captura-de-pantalla-2025-03-18-205745.png)](https://postimg.cc/v4wdryx3)
+[![Captura-de-pantalla-2025-03-18-205822.png](https://i.postimg.cc/7hKDpjjZ/Captura-de-pantalla-2025-03-18-205822.png)](https://postimg.cc/MffhB3WC)
+[![Captura-de-pantalla-2025-03-18-205842.png](https://i.postimg.cc/qM7p8MCh/Captura-de-pantalla-2025-03-18-205842.png)](https://postimg.cc/s1tFzzms)
 ---
 
