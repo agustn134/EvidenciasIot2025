@@ -30,7 +30,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Hielo, aire caliente, mano.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-001](https://github.com/agustn134/EvidenciasIot2025/blob/d432283afbe7b4cf1269e61d92921029917b9bfd/U2%20CODIGOS%20PYTHON/KY001_Temperatura.py) 
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1uqLpzRlqXd8kOTihjMFiXRFVyaJTEp-G/view?usp=sharing)
 
 ### 2. KY-002 - Sensor de Vibración
    - **Descripción:** Sensor para detectar vibraciones.
@@ -51,7 +51,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Presionar con el dedo.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-004](https://github.com/agustn134/EvidenciasIot2025/blob/b3bd3f42b061d9ed91cf8090dc6afe8b8cb6047c/U2%20CODIGOS%20PYTHON/KY-004%20(Push%20Bot%C3%B3n).py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1ojmzodFSX5UofNdZe7wt4J59X7ABy8ts/view?usp=sharing)
 
 ### 5. KY-005 - Sensor Infrarrojo
    - **Descripción:** Sensor para detectar luz infrarroja.
@@ -65,28 +65,28 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Código en Arduino para generar tonos.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-006](https://github.com/agustn134/EvidenciasIot2025/blob/08e9cef1a06209fd87e594bfd0baf430c474108f/U2%20CODIGOS%20PYTHON/Codigo%20de%20Buzzer%20ky-006.py)
-   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/107RMfGzoZQrTc0C1IwCQ_nqt3ucRU5xk/view?usp=sharing)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1uqLpzRlqXd8kOTihjMFiXRFVyaJTEp-G/view?usp=sharing)
 
 ### 7. KY-008 - Módulo LED Láser
    - **Descripción:** LED láser para proyectos de luz.
    - **Material para Prueba:** Papel reflectante, sensor de luz.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-008](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY008_Laser.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1Z579G1oF3EEnvRuzdk__EY9QZWkUtyNI/view?usp=sharing)
 
 ### 8. KY-010 - Módulo Foto Interruptor
    - **Descripción:** Interruptor activado por luz.
    - **Material para Prueba:** Objeto interrumpiendo el haz de luz.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-010](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky10.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1ZtPA8coswytJj9CBTAgDGuS7Dj8RpHAu/view?usp=sharing)
 
 ### 9. KY-011 - Módulo LED 2 Colores 5mm
    - **Descripción:** LED de dos colores.
    - **Material para Prueba:** Resistencia y código para cambiar color.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-011](https://github.com/agustn134/EvidenciasIot2025/blob/b3bd3f42b061d9ed91cf8090dc6afe8b8cb6047c/U2%20CODIGOS%20PYTHON/C%C3%B3digo%20Python%20para%20KY-011.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1qN7JZYLp01ROjcjpEADOoqxxIm28YIPo/view?usp=sharing)
 
 ### 10. KY-012 - Módulo Buzzer Activo
    - **Descripción:** Buzzer activo para generar tonos.
@@ -135,31 +135,32 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Girar el módulo
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/7b6c8fa890fa5ee505fb55be30b14508f77731b2/U2%20CODIGOS%20PYTHON/KY-020%20Sensor%20de%20inclinacion.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/10rD6sjmd1Z4yPhRRCXS6UnIy0LWabdnR/view?usp=sharing)
 
 ### 19. KY-021 - Módulo Mini Interruptor Magnético
    - **Material para Prueba:** Acercar un imán
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-021](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/Sensor%20KY-021%20(Mini%20Interruptor%20Magn%C3%A9tico).py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-hPJSwKWrcpcMWeQ-jZe2pw7WIBntNCt/view?usp=sharing)
 
 ### 20. KY-022 - Módulo LED Infrarrojo Receptor
    - **Material para Prueba:** Control remoto, señal infrarroja
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-022](https://github.com/agustn134/EvidenciasIot2025/blob/b3bd3f42b061d9ed91cf8090dc6afe8b8cb6047c/U2%20CODIGOS%20PYTHON/Codigo%20de%20Sensor%20ky-022.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/120Iv227LU60KleB4pIayN_hT9xGrXQAq/view?usp=sharing)
+     [Ver video2](https://drive.google.com/file/d/17SHXWcrscPe4FMmCdP-dI7vO1GC0SCVQ/view?usp=sharing)
 
 ### 21. KY-023 - Módulo Joystick
    - **Material para Prueba:** Mover en diferentes direcciones
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/Sensor%20KY-023%20(Joystick).py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-eg2mDFdPLOKAE_lG-s2lWUO2C7w8i1x/view?usp=sharing)
 
 ### 22. KY-024 - Sensor de Campo Magnético
    - **Material para Prueba:** Acercar un imán
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-024](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/Sensor%20KY-024%20(Sensor%20de%20Campo%20Magn%C3%A9tico).py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-gXEdHg4NQVQBEIUkcv8ksBLdtE-1kFz/view?usp=sharing)
 
 ### 23. KY-025 - Módulo Reed Switch 
    - **Material para Prueba:** Activar con imán
@@ -177,13 +178,14 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Inclinar el módulo
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-027](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY-027%20con%20el%20ky%20016.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1pQ_3VsAajk8HsIaI992BuoxS6xpw1e2C/view?usp=sharing)
 
 ### 26. KY-028 - Sensor de Temperatura Digital
    - **Material para Prueba:** Hielo, aire caliente
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY028_Sensor.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1FSkqGj6zc2iLXObDbP7scbLshK1DDErr/view?usp=sharing)
+     [Ver video pt2] (https://drive.google.com/file/d/1zUtq-5vqd15A0q2ieriKb7C812-1Lc_c/view?usp=sharing)
 
 ### 27. KY-029 - Módulo LED 2 Colores 3mm
    - **Material para Prueba:** Código para encender diferentes colores
@@ -219,7 +221,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Acercar un imán y medir salida
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/d4805b13e48ae1a4572379821602cb570ec08926/U2%20CODIGOS%20PYTHON/KY-035%20sensor%20de%20Efecto%20Hall%20Anal%C3%B3gico.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/102v6G_H2VR6j875W1qgyILzTu2friBh2/view?usp=sharing)
 
 ### 34. KY-036 - Sensor Táctil de Metal
    - **Material para Prueba:** Tocar con el dedo o material conductor
@@ -243,7 +245,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Colocar el dedo sobre el sensor
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-039](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY039%20Sensor%20de%20Pulso.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-QsY9pP-W9591Fdi3YxPc7PQzsC1BPTh/view?usp=sharing)
 
 ### 38. KY-040 - Módulo Encoder
    - **Material para Prueba:** Girar el encoder manualmente
