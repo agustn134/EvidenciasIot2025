@@ -293,8 +293,16 @@ Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
 #### Objetivo:
 Evaluar el conocimiento en JavaScript a través del módulo JavaScript Fundamentals 2 de NetAcad.
 
-#### Criterios:
-- **Puntaje obtenido:** 1.5 puntos (proporcional al resultado)
+[url=https://postimages.org/][img]https://i.postimg.cc/5ySjjPGh/Captura-de-pantalla-2025-03-18-205402.png[/img][/url]
+
+[url=https://postimages.org/][img]https://i.postimg.cc/WzvhNR9m/Captura-de-pantalla-2025-03-18-205434.png[/img][/url]
+
+
+
+
+
+
+
 
 #### Evidencia:
 - **Captura de pantalla del resultado:** [Ver captura](https://drive.google.com/)
