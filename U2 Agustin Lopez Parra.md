@@ -65,7 +65,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Código en Arduino para generar tonos.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-006](https://github.com/agustn134/EvidenciasIot2025/blob/08e9cef1a06209fd87e594bfd0baf430c474108f/U2%20CODIGOS%20PYTHON/Codigo%20de%20Buzzer%20ky-006.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/107RMfGzoZQrTc0C1IwCQ_nqt3ucRU5xk/view?usp=sharing)
 
 ### 7. KY-008 - Módulo LED Láser
    - **Descripción:** LED láser para proyectos de luz.
@@ -117,7 +117,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Inclinación del módulo
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-017](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky%20de%20mercurio.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/10zxAh67PnMsS7FKBrYPKMJPEEoCP5SaT/view?usp=sharing)
      
 ### 16. KY-018 - Módulo de Fotorresistencia
    - **Material para Prueba:** Luz y sombra sobre el sensor
@@ -171,7 +171,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Encender un fósforo o vela
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky026%20Sensor%20de%20flama.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/17mE2Q1jr7vGxnosOvs7_pOMayXrmuu63/view?usp=sharing)
 
 ### 25. KY-027 - Módulo Luminoso de Inclinación
    - **Material para Prueba:** Inclinar el módulo
@@ -195,7 +195,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Golpear suavemente el sensor
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky031%20Sensor%20de%20Impacto.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1XylN3RzhiQ21hchl__Rkc_v_xEWvsS9_/view?usp=sharing)
 
 ### 30. KY-032 - Sensor de Obstáculos
    - **Material para Prueba:** Colocar un objeto frente al sensor
@@ -213,7 +213,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Código para cambiar los colores
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-034](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/a%20KY-034%20(M%C3%B3dulo%20LED%207%20Colores).py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-FfrqNIcU6CMq62q9Rqeqy9iRHX33poX/view?usp=sharing)
 
 ### 33. KY-035 - Sensor de Efecto Hall Analógico
    - **Material para Prueba:** Acercar un imán y medir salida
@@ -225,19 +225,19 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Tocar con el dedo o material conductor
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky036%20Sensor%20T%C3%A1ctil%20de%20Metal.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-_LgjVbCrzEGA17Gi8YqZvW0BC45WZpO/view?usp=sharing)
 
 ### 35. KY-037 - Módulo Micrófono Sensible
    - **Material para Prueba:** Aplaudir o hablar cerca del sensor
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/Kit37%20Sensores%20Para%20Arduino.txt)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1pyE-k7Cu0ypnIZBWfXglu43LJcE13q3R/view?usp=sharing)
 
 ### 36. KY-038 - Sensor de Sonido con Micrófono
    - **Material para Prueba:** Hacer ruido y observar la salida
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/d4805b13e48ae1a4572379821602cb570ec08926/U2%20CODIGOS%20PYTHON/KY-038%20sensor%20de%20sonido%20con%20micr%C3%B3fono.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/10xB-N_j9wKkaFKZMYuU4WhneF5fM-x5G/view?usp=sharing)
 
 ### 37. KY-039 - Sensor de Pulso
    - **Material para Prueba:** Colocar el dedo sobre el sensor
