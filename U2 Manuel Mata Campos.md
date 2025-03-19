@@ -28,7 +28,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Hielo, aire caliente, mano.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-001](https://github.com/agustn134/EvidenciasIot2025/blob/d432283afbe7b4cf1269e61d92921029917b9bfd/U2%20CODIGOS%20PYTHON/KY001_Temperatura.py) 
-   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/10HaZrff95mQSwdfzoqRh5ldan28Rs71_/view?usp=sharing)
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1uqLpzRlqXd8kOTihjMFiXRFVyaJTEp-G/view?usp=sharing)
 
 ### 2. KY-002 - Sensor de Vibración
    - **Descripción:** Sensor para detectar vibraciones.
@@ -91,7 +91,7 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Prueba con código de tonos.
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/ky012%20Modulo%20Buzzer%20Activo.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1ZtPA8coswytJj9CBTAgDGuS7Dj8RpHAu/view?usp=sharing)
 
 ### 11. KY-013 - Sensor de Temperatura Analógica
    - **Material para Prueba:** Hielo, calor
@@ -175,13 +175,14 @@ Crear y entregar videos que documenten el proceso y los resultados del trabajo.
    - **Material para Prueba:** Inclinar el módulo
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-027](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY-027%20con%20el%20ky%20016.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1pQ_3VsAajk8HsIaI992BuoxS6xpw1e2C/view?usp=sharing)
 
 ### 26. KY-028 - Sensor de Temperatura Digital
    - **Material para Prueba:** Hielo, aire caliente
    - **Diagrama de conexión:** [Ver diagrama]()
    - **Código fuente en GitHub:** [Código KY-012](https://github.com/agustn134/EvidenciasIot2025/blob/ee2dd47d00b00c13e006eabf981df95df3cbc254/U2%20CODIGOS%20PYTHON/KY028_Sensor.py)
-   - **Video demostrativo:** [Ver video]()
+   - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1FSkqGj6zc2iLXObDbP7scbLshK1DDErr/view?usp=sharing)
+     [Ver video pt2] (https://drive.google.com/file/d/1zUtq-5vqd15A0q2ieriKb7C812-1Lc_c/view?usp=sharing)
 
 ### 27. KY-029 - Módulo LED 2 Colores 3mm
    - **Material para Prueba:** Código para encender diferentes colores
