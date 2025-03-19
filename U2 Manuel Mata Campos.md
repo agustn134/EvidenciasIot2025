@@ -269,7 +269,7 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 - **Soldadura limpia y sin cortocircuitos:** 0.1 puntos
 
 #### Evidencias:
-- **Fotos del circuito:** [Ver fotos](https://drive.google.com/)
+- **Fotos del circuito:** 
 - **Video demostrativo:** [Ver video](https://drive.google.com/file/d/1-daXESgNpGGtzjURWC8zXTgfb7ZfYM7i/view?usp=sharing)
 - [![Captura-de-pantalla-2025-03-18-201106.png](https://i.postimg.cc/Y09jG2x7/Captura-de-pantalla-2025-03-18-201106.png)](https://postimg.cc/zbsq4rM2)
 - **Circuito:** [[Circuito]()](https://wokwi.com/projects/425693140919907329)
@@ -280,8 +280,6 @@ Crear un circuito con 10 LEDs y 10 resistencias que forme una figura creativa y 
 #### Objetivo:
 Evaluar el conocimiento teórico de los estudiantes a través de un Quizziz.
 
-#### Criterios:
-- **Puntaje obtenido:** 1.5 puntos (proporcional al resultado)
 
 #### Evidencia:
 - **Captura de pantalla del resultado:** [![Captura-de-pantalla-2025-03-17-111529.png](https://i.postimg.cc/pdxKQB9C/Captura-de-pantalla-2025-03-17-111529.png)](https://postimg.cc/RWs34KLJ)
