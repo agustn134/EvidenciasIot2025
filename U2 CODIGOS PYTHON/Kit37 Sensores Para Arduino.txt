@@ -1,28 +1,17 @@
 \dt
 
-Nombre del sensor (por ejemplo, DHT11, LM35, HC-SR04, etc.).
-
-Tipo de datos que proporciona (analógico, digital, temperatura, humedad, distancia, etc.).
-GPIOs que utilizarás (o cualquier configuración específica del hardware).
-Formato de los datos que deseas publicar (por ejemplo, JSON con campos específicos como temperatura, humedad, distancia, etc.).
-
-Nombre del sensor 
-Tipo de datos que proporciona 
-GPIOs que utilizarás
-Formato de los datos que deseas publicar
-
 3
 Ky 001 Sensor de temperatura
 Nombre del sensor Ky 001 Sensor de temperatura
 Tipo de datos que proporciona Digital
 GPIOs que utilizarás en python thony para esp32
-Formato de los datos que deseas publicar para nodered
+
 
 Ky 004 Modulo Push botón Tomado como un boton normal
 Nombre del sensor Ky 004 Modulo Push botón Tomado como un boton normal
 Tipo de datos que proporciona Digital
 GPIOs que utilizarás en python thony para esp32
-Formato de los datos que deseas publicar TextoBotonPresionado
+Formato de los datos que publicar TextoBotonPresionado
 conectado al pin 5 el push
 
 ky008 Modulo Led Laser
@@ -50,8 +39,6 @@ ky015 Sensor de Temperatura y Humedad ya
 ky018 Modulo de Fotorresistencia
 ky019 Modulo de 1 Revelador 
 
-ahora dame una explicacion para un video de 20 segundos para mostrarle al profe toda el flujo del trabajo que se hace
-dame el function de nodered y que diga el nombre ky022 y al lado el valor, algo asi"ky022-(valo)r" solo para que vea el profe el dato en la tabla y de que sensor es
 
 6.
 ky021 Modulo Mini Interruptor Magnetico yaa
@@ -77,6 +64,3 @@ ky039 Sensor de Pulso
 ky040 Modulo Encoder
 
 
-
-(pegar codigo python)
-Genial, ya funciono, ahora dame dos explicaciones generales (individuales para cada uno)de 20segundos de la funcion de todo esto, desde el python al flujo de nodered y la muestra en la tabla de nodered 
